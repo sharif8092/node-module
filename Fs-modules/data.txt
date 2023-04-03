@@ -1,0 +1,1 @@
+just testing fs module writeFileSync hi i am sharif kamran
